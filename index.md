@@ -1,5 +1,5 @@
 # Welcome to Zimo's World
-#I AM COOL
+
 ![chill](https://static.viget.com/Git-Tips-030718.png?mtime=20180307141454&focal=none)
 
 **Listen** In the words of the famous Peng:
@@ -36,10 +36,3 @@ Tasks of college:
 ads
 ads
 ads
-
-
-
-
-
-
-[Go to I am cool](#i-am-cool)
