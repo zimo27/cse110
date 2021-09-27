@@ -1,4 +1,4 @@
-#Welcome to Zimo's World
+# Welcome to Zimo's World
 #I AM COOL
 ![chill](https://static.viget.com/Git-Tips-030718.png?mtime=20180307141454&focal=none)
 
@@ -16,7 +16,7 @@ Shout out to [Google](https://google.com/)
 
 
 
-##My internship goal:
+## My internship goal:
 -Amazon
 -Facebook
 -Microsoft
