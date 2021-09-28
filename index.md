@@ -17,10 +17,10 @@ Shout out to [Google](https://google.com/)
 
 
 ## My internship goal:
--Amazon
--Facebook
--Microsoft
--Google
+- Amazon
+- Facebook
+- Microsoft
+- Google
 
 My plan for the internship:
 1. leetcode
@@ -30,9 +30,4 @@ My plan for the internship:
 Tasks of college:
 [x] find a girlfriend
 [ ] make a lot of friends
-[]
-
-
-ads
-ads
-ads
+[ ] asd
