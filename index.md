@@ -28,6 +28,6 @@ My plan for the internship:
 3. practice interview
 
 Tasks of college:
-[x] find a girlfriend
-[ ] make a lot of friends
-[ ] asd
+- [x] find a girlfriend
+- [ ] make a lot of friends
+- [ ] find an internship
