@@ -31,3 +31,5 @@ Tasks of college:
 - [x] find a girlfriend
 - [ ] make a lot of friends
 - [ ] find an internship
+
+go back to top [Welcome to Zimo's World](https://github.com/zimo27/cse110/blob/rightnow/index.md#welcome-to-zimos-world)
